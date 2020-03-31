@@ -1,1 +1,5204 @@
-#testing
+[
+  {
+    "attributes": {
+      "OBJECTID": 1,
+      "Province_State": "Alberta",
+      "Country_Region": "Canada",
+      "Last_Update": 1585630002000,
+      "Lat": 53.9333,
+      "Long_": -116.5765,
+      "Confirmed": 690,
+      "Recovered": 0,
+      "Deaths": 8,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Alberta, Canada"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 2,
+      "Province_State": "Anguilla",
+      "Country_Region": "United Kingdom",
+      "Last_Update": 1585629624000,
+      "Lat": 18.2206,
+      "Long_": -63.0686,
+      "Confirmed": 2,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 2,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Anguilla, United Kingdom"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 3,
+      "Province_State": "Anhui",
+      "Country_Region": "China",
+      "Last_Update": 1583644741000,
+      "Lat": 31.8257,
+      "Long_": 117.2264,
+      "Confirmed": 990,
+      "Recovered": 984,
+      "Deaths": 6,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Anhui, China"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 4,
+      "Province_State": "Aruba",
+      "Country_Region": "Netherlands",
+      "Last_Update": 1585629624000,
+      "Lat": 12.5211,
+      "Long_": -69.9683,
+      "Confirmed": 50,
+      "Recovered": 1,
+      "Deaths": 0,
+      "Active": 49,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Aruba, Netherlands"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 5,
+      "Province_State": "Australian Capital Territory",
+      "Country_Region": "Australia",
+      "Last_Update": 1585630016000,
+      "Lat": -35.4735,
+      "Long_": 149.0124,
+      "Confirmed": 80,
+      "Recovered": 3,
+      "Deaths": 1,
+      "Active": 76,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Australian Capital Territory, Australia"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 6,
+      "Province_State": "Beijing",
+      "Country_Region": "China",
+      "Last_Update": 1585617041000,
+      "Lat": 40.1824,
+      "Long_": 116.4142,
+      "Confirmed": 580,
+      "Recovered": 416,
+      "Deaths": 8,
+      "Active": 156,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Beijing, China"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 7,
+      "Province_State": "Bermuda",
+      "Country_Region": "United Kingdom",
+      "Last_Update": 1585629624000,
+      "Lat": 32.3078,
+      "Long_": -64.7505,
+      "Confirmed": 27,
+      "Recovered": 2,
+      "Deaths": 0,
+      "Active": 25,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Bermuda, United Kingdom"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 8,
+      "Province_State": "British Columbia",
+      "Country_Region": "Canada",
+      "Last_Update": 1585630002000,
+      "Lat": 53.7267,
+      "Long_": -127.6476,
+      "Confirmed": 970,
+      "Recovered": 0,
+      "Deaths": 19,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "British Columbia, Canada"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 9,
+      "Province_State": "British Virgin Islands",
+      "Country_Region": "United Kingdom",
+      "Last_Update": 1585629624000,
+      "Lat": 18.4207,
+      "Long_": -64.64,
+      "Confirmed": 3,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 3,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "British Virgin Islands, United Kingdom"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 10,
+      "Province_State": "Cayman Islands",
+      "Country_Region": "United Kingdom",
+      "Last_Update": 1585629624000,
+      "Lat": 19.3133,
+      "Long_": -81.2546,
+      "Confirmed": 12,
+      "Recovered": 0,
+      "Deaths": 1,
+      "Active": 11,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Cayman Islands, United Kingdom"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 11,
+      "Province_State": "Channel Islands",
+      "Country_Region": "United Kingdom",
+      "Last_Update": 1585629624000,
+      "Lat": 49.3723,
+      "Long_": -2.3644,
+      "Confirmed": 141,
+      "Recovered": 0,
+      "Deaths": 2,
+      "Active": 139,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Channel Islands, United Kingdom"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 12,
+      "Province_State": "Chongqing",
+      "Country_Region": "China",
+      "Last_Update": 1585440852000,
+      "Lat": 30.0572,
+      "Long_": 107.874,
+      "Confirmed": 579,
+      "Recovered": 570,
+      "Deaths": 6,
+      "Active": 3,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Chongqing, China"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 13,
+      "Province_State": "Curacao",
+      "Country_Region": "Netherlands",
+      "Last_Update": 1585629624000,
+      "Lat": 12.1696,
+      "Long_": -68.99,
+      "Confirmed": 11,
+      "Recovered": 2,
+      "Deaths": 1,
+      "Active": 8,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Curacao, Netherlands"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 15,
+      "Province_State": "Faroe Islands",
+      "Country_Region": "Denmark",
+      "Last_Update": 1585629624000,
+      "Lat": 61.8926,
+      "Long_": -6.9118,
+      "Confirmed": 168,
+      "Recovered": 70,
+      "Deaths": 0,
+      "Active": 98,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Faroe Islands, Denmark"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 16,
+      "Province_State": "French Guiana",
+      "Country_Region": "France",
+      "Last_Update": 1585629624000,
+      "Lat": 4,
+      "Long_": -53,
+      "Confirmed": 43,
+      "Recovered": 6,
+      "Deaths": 0,
+      "Active": 37,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "French Guiana, France"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 17,
+      "Province_State": "French Polynesia",
+      "Country_Region": "France",
+      "Last_Update": 1585629624000,
+      "Lat": -17.6797,
+      "Long_": 149.4068,
+      "Confirmed": 36,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 36,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "French Polynesia, France"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 18,
+      "Province_State": "Fujian",
+      "Country_Region": "China",
+      "Last_Update": 1585620631000,
+      "Lat": 26.0789,
+      "Long_": 117.9874,
+      "Confirmed": 343,
+      "Recovered": 295,
+      "Deaths": 1,
+      "Active": 47,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Fujian, China"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 19,
+      "Province_State": "Gansu",
+      "Country_Region": "China",
+      "Last_Update": 1585491946000,
+      "Lat": 37.8099,
+      "Long_": 101.0583,
+      "Confirmed": 138,
+      "Recovered": 125,
+      "Deaths": 2,
+      "Active": 11,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Gansu, China"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 20,
+      "Province_State": "Gibraltar",
+      "Country_Region": "United Kingdom",
+      "Last_Update": 1585629624000,
+      "Lat": 36.1408,
+      "Long_": -5.3536,
+      "Confirmed": 69,
+      "Recovered": 34,
+      "Deaths": 0,
+      "Active": 35,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Gibraltar, United Kingdom"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 21,
+      "Province_State": "Grand Princess",
+      "Country_Region": "Canada",
+      "Last_Update": 1585630002000,
+      "Lat": 0,
+      "Long_": 0,
+      "Confirmed": 13,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Grand Princess, Canada"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 22,
+      "Province_State": "Greenland",
+      "Country_Region": "Denmark",
+      "Last_Update": 1585629624000,
+      "Lat": 71.7069,
+      "Long_": -42.6043,
+      "Confirmed": 10,
+      "Recovered": 2,
+      "Deaths": 0,
+      "Active": 8,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Greenland, Denmark"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 23,
+      "Province_State": "Guadeloupe",
+      "Country_Region": "France",
+      "Last_Update": 1585629624000,
+      "Lat": 16.265,
+      "Long_": -61.551,
+      "Confirmed": 106,
+      "Recovered": 17,
+      "Deaths": 4,
+      "Active": 85,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Guadeloupe, France"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 24,
+      "Province_State": "Guangdong",
+      "Country_Region": "China",
+      "Last_Update": 1585621663000,
+      "Lat": 23.3417,
+      "Long_": 113.4244,
+      "Confirmed": 1490,
+      "Recovered": 1355,
+      "Deaths": 8,
+      "Active": 127,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Guangdong, China"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 25,
+      "Province_State": "Guangxi",
+      "Country_Region": "China",
+      "Last_Update": 1584678825000,
+      "Lat": 23.8298,
+      "Long_": 108.7881,
+      "Confirmed": 254,
+      "Recovered": 250,
+      "Deaths": 2,
+      "Active": 2,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Guangxi, China"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 26,
+      "Province_State": "Guizhou",
+      "Country_Region": "China",
+      "Last_Update": 1584495463000,
+      "Lat": 26.8154,
+      "Long_": 106.8748,
+      "Confirmed": 146,
+      "Recovered": 144,
+      "Deaths": 2,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Guizhou, China"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 27,
+      "Province_State": "Hainan",
+      "Country_Region": "China",
+      "Last_Update": 1585024155000,
+      "Lat": 19.1959,
+      "Long_": 109.7453,
+      "Confirmed": 168,
+      "Recovered": 168,
+      "Deaths": 6,
+      "Active": -6,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Hainan, China"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 28,
+      "Province_State": "Hebei",
+      "Country_Region": "China",
+      "Last_Update": 1585534070000,
+      "Lat": 39.549,
+      "Long_": 116.1306,
+      "Confirmed": 321,
+      "Recovered": 310,
+      "Deaths": 6,
+      "Active": 5,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Hebei, China"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 29,
+      "Province_State": "Heilongjiang",
+      "Country_Region": "China",
+      "Last_Update": 1585181739000,
+      "Lat": 47.862,
+      "Long_": 127.7615,
+      "Confirmed": 484,
+      "Recovered": 469,
+      "Deaths": 13,
+      "Active": 2,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Heilongjiang, China"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 30,
+      "Province_State": "Henan",
+      "Country_Region": "China",
+      "Last_Update": 1585446241000,
+      "Lat": 33.882,
+      "Long_": 113.614,
+      "Confirmed": 1276,
+      "Recovered": 1251,
+      "Deaths": 22,
+      "Active": 3,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Henan, China"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 31,
+      "Province_State": "Hong Kong",
+      "Country_Region": "China",
+      "Last_Update": 1585611574000,
+      "Lat": 22.3,
+      "Long_": 114.2,
+      "Confirmed": 682,
+      "Recovered": 124,
+      "Deaths": 4,
+      "Active": 554,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Hong Kong, China"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 32,
+      "Province_State": "Hubei",
+      "Country_Region": "China",
+      "Last_Update": 1585616797000,
+      "Lat": 30.9756,
+      "Long_": 112.2707,
+      "Confirmed": 67801,
+      "Recovered": 63153,
+      "Deaths": 3187,
+      "Active": 1461,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Hubei, China"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 33,
+      "Province_State": "Hunan",
+      "Country_Region": "China",
+      "Last_Update": 1584174305000,
+      "Lat": 27.6104,
+      "Long_": 111.7088,
+      "Confirmed": 1018,
+      "Recovered": 1014,
+      "Deaths": 4,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Hunan, China"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 34,
+      "Province_State": "Inner Mongolia",
+      "Country_Region": "China",
+      "Last_Update": 1585612483000,
+      "Lat": 44.0935,
+      "Long_": 113.9448,
+      "Confirmed": 107,
+      "Recovered": 74,
+      "Deaths": 1,
+      "Active": 32,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Inner Mongolia, China"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 35,
+      "Province_State": "Isle of Man",
+      "Country_Region": "United Kingdom",
+      "Last_Update": 1585629624000,
+      "Lat": 54.2361,
+      "Long_": -4.5481,
+      "Confirmed": 49,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 49,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Isle of Man, United Kingdom"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 36,
+      "Province_State": "Jiangsu",
+      "Country_Region": "China",
+      "Last_Update": 1585617041000,
+      "Lat": 32.9711,
+      "Long_": 119.455,
+      "Confirmed": 646,
+      "Recovered": 631,
+      "Deaths": 0,
+      "Active": 15,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Jiangsu, China"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 37,
+      "Province_State": "Jiangxi",
+      "Country_Region": "China",
+      "Last_Update": 1585538115000,
+      "Lat": 27.614,
+      "Long_": 115.7221,
+      "Confirmed": 937,
+      "Recovered": 935,
+      "Deaths": 1,
+      "Active": 1,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Jiangxi, China"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 38,
+      "Province_State": "Jilin",
+      "Country_Region": "China",
+      "Last_Update": 1585441700000,
+      "Lat": 43.6661,
+      "Long_": 126.1923,
+      "Confirmed": 98,
+      "Recovered": 92,
+      "Deaths": 1,
+      "Active": 5,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Jilin, China"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 39,
+      "Province_State": "Liaoning",
+      "Country_Region": "China",
+      "Last_Update": 1585614180000,
+      "Lat": 41.2956,
+      "Long_": 122.6085,
+      "Confirmed": 139,
+      "Recovered": 124,
+      "Deaths": 2,
+      "Active": 13,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Liaoning, China"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 40,
+      "Province_State": "Macau",
+      "Country_Region": "China",
+      "Last_Update": 1585615457000,
+      "Lat": 22.1667,
+      "Long_": 113.55,
+      "Confirmed": 39,
+      "Recovered": 10,
+      "Deaths": 0,
+      "Active": 29,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Macau, China"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 41,
+      "Province_State": "Manitoba",
+      "Country_Region": "Canada",
+      "Last_Update": 1585630002000,
+      "Lat": 53.7609,
+      "Long_": -98.8139,
+      "Confirmed": 96,
+      "Recovered": 0,
+      "Deaths": 1,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Manitoba, Canada"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 42,
+      "Province_State": "Martinique",
+      "Country_Region": "France",
+      "Last_Update": 1585629624000,
+      "Lat": 14.6415,
+      "Long_": -61.0242,
+      "Confirmed": 93,
+      "Recovered": 0,
+      "Deaths": 1,
+      "Active": 92,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Martinique, France"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 43,
+      "Province_State": "Mayotte",
+      "Country_Region": "France",
+      "Last_Update": 1585629624000,
+      "Lat": -12.8275,
+      "Long_": 45.166244,
+      "Confirmed": 82,
+      "Recovered": 10,
+      "Deaths": 0,
+      "Active": 72,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Mayotte, France"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 44,
+      "Province_State": "Montserrat",
+      "Country_Region": "United Kingdom",
+      "Last_Update": 1585629624000,
+      "Lat": 16.742498,
+      "Long_": -62.187366,
+      "Confirmed": 5,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 5,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Montserrat, United Kingdom"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 45,
+      "Province_State": "New Brunswick",
+      "Country_Region": "Canada",
+      "Last_Update": 1585630002000,
+      "Lat": 46.5653,
+      "Long_": -66.4619,
+      "Confirmed": 68,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "New Brunswick, Canada"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 46,
+      "Province_State": "New Caledonia",
+      "Country_Region": "France",
+      "Last_Update": 1585629624000,
+      "Lat": -20.904305,
+      "Long_": 165.618042,
+      "Confirmed": 15,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 15,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "New Caledonia, France"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 47,
+      "Province_State": "New South Wales",
+      "Country_Region": "Australia",
+      "Last_Update": 1585630016000,
+      "Lat": -33.8688,
+      "Long_": 151.2093,
+      "Confirmed": 2032,
+      "Recovered": 4,
+      "Deaths": 8,
+      "Active": 2020,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "New South Wales, Australia"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 48,
+      "Province_State": "Newfoundland and Labrador",
+      "Country_Region": "Canada",
+      "Last_Update": 1585630002000,
+      "Lat": 53.1355,
+      "Long_": -57.6604,
+      "Confirmed": 148,
+      "Recovered": 0,
+      "Deaths": 1,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Newfoundland and Labrador, Canada"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 49,
+      "Province_State": "Ningxia",
+      "Country_Region": "China",
+      "Last_Update": 1584348425000,
+      "Lat": 37.2692,
+      "Long_": 106.1655,
+      "Confirmed": 75,
+      "Recovered": 75,
+      "Deaths": 0,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Ningxia, China"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 50,
+      "Province_State": "Northern Territory",
+      "Country_Region": "Australia",
+      "Last_Update": 1585630016000,
+      "Lat": -12.4634,
+      "Long_": 130.8456,
+      "Confirmed": 15,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 15,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Northern Territory, Australia"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 51,
+      "Province_State": "Northwest Territories",
+      "Country_Region": "Canada",
+      "Last_Update": 1585630002000,
+      "Lat": 64.8255,
+      "Long_": -124.8457,
+      "Confirmed": 1,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Northwest Territories, Canada"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 52,
+      "Province_State": "Nova Scotia",
+      "Country_Region": "Canada",
+      "Last_Update": 1585630002000,
+      "Lat": 44.682,
+      "Long_": -63.7443,
+      "Confirmed": 127,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Nova Scotia, Canada"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 53,
+      "Province_State": "Ontario",
+      "Country_Region": "Canada",
+      "Last_Update": 1585630002000,
+      "Lat": 51.2538,
+      "Long_": -85.3232,
+      "Confirmed": 1706,
+      "Recovered": 0,
+      "Deaths": 32,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Ontario, Canada"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 54,
+      "Province_State": "Prince Edward Island",
+      "Country_Region": "Canada",
+      "Last_Update": 1585630002000,
+      "Lat": 46.5107,
+      "Long_": -63.4168,
+      "Confirmed": 18,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Prince Edward Island, Canada"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 55,
+      "Province_State": "Qinghai",
+      "Country_Region": "China",
+      "Last_Update": 1582456742000,
+      "Lat": 35.7452,
+      "Long_": 95.9956,
+      "Confirmed": 18,
+      "Recovered": 18,
+      "Deaths": 0,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Qinghai, China"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 56,
+      "Province_State": "Quebec",
+      "Country_Region": "Canada",
+      "Last_Update": 1585630002000,
+      "Lat": 52.9399,
+      "Long_": -73.5491,
+      "Confirmed": 3430,
+      "Recovered": 0,
+      "Deaths": 25,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Quebec, Canada"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 57,
+      "Province_State": "Queensland",
+      "Country_Region": "Australia",
+      "Last_Update": 1585630016000,
+      "Lat": -27.4698,
+      "Long_": 153.0251,
+      "Confirmed": 743,
+      "Recovered": 8,
+      "Deaths": 2,
+      "Active": 733,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Queensland, Australia"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 59,
+      "Province_State": "Reunion",
+      "Country_Region": "France",
+      "Last_Update": 1585629624000,
+      "Lat": -21.1151,
+      "Long_": 55.5364,
+      "Confirmed": 224,
+      "Recovered": 1,
+      "Deaths": 0,
+      "Active": 223,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Reunion, France"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 60,
+      "Province_State": "Saint Barthelemy",
+      "Country_Region": "France",
+      "Last_Update": 1585629624000,
+      "Lat": 17.9,
+      "Long_": -62.8333,
+      "Confirmed": 6,
+      "Recovered": 1,
+      "Deaths": 0,
+      "Active": 5,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Saint Barthelemy, France"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 61,
+      "Province_State": "Saskatchewan",
+      "Country_Region": "Canada",
+      "Last_Update": 1585630002000,
+      "Lat": 52.9399,
+      "Long_": -106.4509,
+      "Confirmed": 176,
+      "Recovered": 0,
+      "Deaths": 2,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Saskatchewan, Canada"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 62,
+      "Province_State": "Shaanxi",
+      "Country_Region": "China",
+      "Last_Update": 1585188865000,
+      "Lat": 35.1917,
+      "Long_": 108.8701,
+      "Confirmed": 253,
+      "Recovered": 242,
+      "Deaths": 3,
+      "Active": 8,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Shaanxi, China"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 63,
+      "Province_State": "Shandong",
+      "Country_Region": "China",
+      "Last_Update": 1585615457000,
+      "Lat": 36.3427,
+      "Long_": 118.1498,
+      "Confirmed": 774,
+      "Recovered": 753,
+      "Deaths": 7,
+      "Active": 14,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Shandong, China"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 64,
+      "Province_State": "Shanghai",
+      "Country_Region": "China",
+      "Last_Update": 1585613332000,
+      "Lat": 31.202,
+      "Long_": 121.4491,
+      "Confirmed": 509,
+      "Recovered": 338,
+      "Deaths": 5,
+      "Active": 166,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Shanghai, China"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 65,
+      "Province_State": "Shanxi",
+      "Country_Region": "China",
+      "Last_Update": 1585441215000,
+      "Lat": 37.5777,
+      "Long_": 112.2922,
+      "Confirmed": 136,
+      "Recovered": 133,
+      "Deaths": 0,
+      "Active": 3,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Shanxi, China"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 66,
+      "Province_State": "Sichuan",
+      "Country_Region": "China",
+      "Last_Update": 1585530555000,
+      "Lat": 30.6171,
+      "Long_": 102.7103,
+      "Confirmed": 550,
+      "Recovered": 536,
+      "Deaths": 3,
+      "Active": 11,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Sichuan, China"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 67,
+      "Province_State": "Sint Maarten",
+      "Country_Region": "Netherlands",
+      "Last_Update": 1585629624000,
+      "Lat": 18.0425,
+      "Long_": -63.0548,
+      "Confirmed": 6,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 6,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Sint Maarten, Netherlands"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 68,
+      "Province_State": "South Australia",
+      "Country_Region": "Australia",
+      "Last_Update": 1585630016000,
+      "Lat": -34.9285,
+      "Long_": 138.6007,
+      "Confirmed": 305,
+      "Recovered": 6,
+      "Deaths": 0,
+      "Active": 299,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "South Australia, Australia"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 69,
+      "Province_State": "St Martin",
+      "Country_Region": "France",
+      "Last_Update": 1585629624000,
+      "Lat": 18.0708,
+      "Long_": -63.0501,
+      "Confirmed": 15,
+      "Recovered": 2,
+      "Deaths": 1,
+      "Active": 12,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "St Martin, France"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 70,
+      "Province_State": "Tasmania",
+      "Country_Region": "Australia",
+      "Last_Update": 1585630016000,
+      "Lat": -42.8821,
+      "Long_": 147.3272,
+      "Confirmed": 69,
+      "Recovered": 5,
+      "Deaths": 1,
+      "Active": 63,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Tasmania, Australia"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 71,
+      "Province_State": "Tianjin",
+      "Country_Region": "China",
+      "Last_Update": 1585557774000,
+      "Lat": 39.3054,
+      "Long_": 117.323,
+      "Confirmed": 174,
+      "Recovered": 133,
+      "Deaths": 3,
+      "Active": 38,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Tianjin, China"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 72,
+      "Province_State": "Tibet",
+      "Country_Region": "China",
+      "Last_Update": 1582456742000,
+      "Lat": 31.6927,
+      "Long_": 88.0924,
+      "Confirmed": 1,
+      "Recovered": 1,
+      "Deaths": 0,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Tibet, China"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 73,
+      "Province_State": "Turks and Caicos Islands",
+      "Country_Region": "United Kingdom",
+      "Last_Update": 1585629624000,
+      "Lat": 21.694,
+      "Long_": -71.7979,
+      "Confirmed": 5,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 5,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Turks and Caicos Islands, United Kingdom"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 74,
+      "Province_State": "Victoria",
+      "Country_Region": "Australia",
+      "Last_Update": 1585630016000,
+      "Lat": -37.8136,
+      "Long_": 144.9631,
+      "Confirmed": 917,
+      "Recovered": 291,
+      "Deaths": 4,
+      "Active": 622,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Victoria, Australia"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 75,
+      "Province_State": "Western Australia",
+      "Country_Region": "Australia",
+      "Last_Update": 1585630016000,
+      "Lat": -31.9505,
+      "Long_": 115.8605,
+      "Confirmed": 355,
+      "Recovered": 41,
+      "Deaths": 2,
+      "Active": 312,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Western Australia, Australia"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 76,
+      "Province_State": "Xinjiang",
+      "Country_Region": "China",
+      "Last_Update": 1583645462000,
+      "Lat": 41.1129,
+      "Long_": 85.2401,
+      "Confirmed": 76,
+      "Recovered": 73,
+      "Deaths": 3,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Xinjiang, China"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 77,
+      "Province_State": "Yukon",
+      "Country_Region": "Canada",
+      "Last_Update": 1585630002000,
+      "Lat": 64.2823,
+      "Long_": -135,
+      "Confirmed": 5,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Yukon, Canada"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 78,
+      "Province_State": "Yunnan",
+      "Country_Region": "China",
+      "Last_Update": 1585609938000,
+      "Lat": 24.974,
+      "Long_": 101.487,
+      "Confirmed": 181,
+      "Recovered": 172,
+      "Deaths": 2,
+      "Active": 7,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Yunnan, China"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 79,
+      "Province_State": "Zhejiang",
+      "Country_Region": "China",
+      "Last_Update": 1585617829000,
+      "Lat": 29.1832,
+      "Long_": 120.0934,
+      "Confirmed": 1257,
+      "Recovered": 1226,
+      "Deaths": 1,
+      "Active": 30,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Zhejiang, China"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 80,
+      "Province_State": null,
+      "Country_Region": "Afghanistan",
+      "Last_Update": 1585629624000,
+      "Lat": 33.93911,
+      "Long_": 67.709953,
+      "Confirmed": 170,
+      "Recovered": 2,
+      "Deaths": 4,
+      "Active": 164,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Afghanistan"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 81,
+      "Province_State": null,
+      "Country_Region": "Albania",
+      "Last_Update": 1585629624000,
+      "Lat": 41.1533,
+      "Long_": 20.1683,
+      "Confirmed": 223,
+      "Recovered": 44,
+      "Deaths": 11,
+      "Active": 168,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Albania"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 82,
+      "Province_State": null,
+      "Country_Region": "Algeria",
+      "Last_Update": 1585629624000,
+      "Lat": 28.0339,
+      "Long_": 1.6596,
+      "Confirmed": 584,
+      "Recovered": 37,
+      "Deaths": 35,
+      "Active": 512,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Algeria"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 83,
+      "Province_State": null,
+      "Country_Region": "Andorra",
+      "Last_Update": 1585629624000,
+      "Lat": 42.5063,
+      "Long_": 1.5218,
+      "Confirmed": 370,
+      "Recovered": 10,
+      "Deaths": 8,
+      "Active": 352,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Andorra"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 84,
+      "Province_State": null,
+      "Country_Region": "Angola",
+      "Last_Update": 1585629624000,
+      "Lat": -11.2027,
+      "Long_": 17.8739,
+      "Confirmed": 7,
+      "Recovered": 1,
+      "Deaths": 2,
+      "Active": 4,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Angola"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 85,
+      "Province_State": null,
+      "Country_Region": "Antigua and Barbuda",
+      "Last_Update": 1585629624000,
+      "Lat": 17.0608,
+      "Long_": -61.7964,
+      "Confirmed": 7,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 7,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Antigua and Barbuda"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 86,
+      "Province_State": null,
+      "Country_Region": "Argentina",
+      "Last_Update": 1585629624000,
+      "Lat": -38.4161,
+      "Long_": -63.6167,
+      "Confirmed": 966,
+      "Recovered": 228,
+      "Deaths": 24,
+      "Active": 714,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Argentina"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 87,
+      "Province_State": null,
+      "Country_Region": "Armenia",
+      "Last_Update": 1585629624000,
+      "Lat": 40.0691,
+      "Long_": 45.0382,
+      "Confirmed": 482,
+      "Recovered": 30,
+      "Deaths": 3,
+      "Active": 449,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Armenia"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 88,
+      "Province_State": null,
+      "Country_Region": "Austria",
+      "Last_Update": 1585629624000,
+      "Lat": 47.5162,
+      "Long_": 14.5501,
+      "Confirmed": 9618,
+      "Recovered": 636,
+      "Deaths": 108,
+      "Active": 8874,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Austria"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 89,
+      "Province_State": null,
+      "Country_Region": "Azerbaijan",
+      "Last_Update": 1585629624000,
+      "Lat": 40.1431,
+      "Long_": 47.5769,
+      "Confirmed": 273,
+      "Recovered": 26,
+      "Deaths": 4,
+      "Active": 243,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Azerbaijan"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 90,
+      "Province_State": null,
+      "Country_Region": "Bahamas",
+      "Last_Update": 1585629624000,
+      "Lat": 25.025885,
+      "Long_": -78.035889,
+      "Confirmed": 14,
+      "Recovered": 1,
+      "Deaths": 0,
+      "Active": 13,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Bahamas"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 91,
+      "Province_State": null,
+      "Country_Region": "Bahrain",
+      "Last_Update": 1585629624000,
+      "Lat": 26.0275,
+      "Long_": 50.55,
+      "Confirmed": 515,
+      "Recovered": 295,
+      "Deaths": 4,
+      "Active": 216,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Bahrain"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 92,
+      "Province_State": null,
+      "Country_Region": "Bangladesh",
+      "Last_Update": 1585629624000,
+      "Lat": 23.685,
+      "Long_": 90.3563,
+      "Confirmed": 49,
+      "Recovered": 19,
+      "Deaths": 5,
+      "Active": 25,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Bangladesh"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 93,
+      "Province_State": null,
+      "Country_Region": "Barbados",
+      "Last_Update": 1585629624000,
+      "Lat": 13.1939,
+      "Long_": -59.5432,
+      "Confirmed": 34,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 34,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Barbados"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 94,
+      "Province_State": null,
+      "Country_Region": "Belarus",
+      "Last_Update": 1585629624000,
+      "Lat": 53.7098,
+      "Long_": 27.9534,
+      "Confirmed": 152,
+      "Recovered": 32,
+      "Deaths": 0,
+      "Active": 120,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Belarus"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 95,
+      "Province_State": null,
+      "Country_Region": "Belgium",
+      "Last_Update": 1585629624000,
+      "Lat": 50.8333,
+      "Long_": 4.469936,
+      "Confirmed": 11899,
+      "Recovered": 1527,
+      "Deaths": 513,
+      "Active": 9859,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Belgium"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 96,
+      "Province_State": null,
+      "Country_Region": "Belize",
+      "Last_Update": 1585629624000,
+      "Lat": 17.1899,
+      "Long_": -88.4976,
+      "Confirmed": 3,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 3,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Belize"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 97,
+      "Province_State": null,
+      "Country_Region": "Benin",
+      "Last_Update": 1585629624000,
+      "Lat": 9.3077,
+      "Long_": 2.3158,
+      "Confirmed": 6,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 6,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Benin"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 98,
+      "Province_State": null,
+      "Country_Region": "Bhutan",
+      "Last_Update": 1585629624000,
+      "Lat": 27.5142,
+      "Long_": 90.4336,
+      "Confirmed": 4,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 4,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Bhutan"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 99,
+      "Province_State": null,
+      "Country_Region": "Bolivia",
+      "Last_Update": 1585629624000,
+      "Lat": -16.2902,
+      "Long_": -63.5887,
+      "Confirmed": 107,
+      "Recovered": 0,
+      "Deaths": 6,
+      "Active": 101,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Bolivia"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 100,
+      "Province_State": null,
+      "Country_Region": "Bosnia and Herzegovina",
+      "Last_Update": 1585629624000,
+      "Lat": 43.9159,
+      "Long_": 17.6791,
+      "Confirmed": 368,
+      "Recovered": 17,
+      "Deaths": 10,
+      "Active": 341,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Bosnia and Herzegovina"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 101,
+      "Province_State": null,
+      "Country_Region": "Botswana",
+      "Last_Update": 1585629624000,
+      "Lat": -22.3285,
+      "Long_": 24.6849,
+      "Confirmed": 3,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 3,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Botswana"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 102,
+      "Province_State": null,
+      "Country_Region": "Brazil",
+      "Last_Update": 1585629624000,
+      "Lat": -14.235,
+      "Long_": -51.9253,
+      "Confirmed": 4661,
+      "Recovered": 127,
+      "Deaths": 165,
+      "Active": 4369,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Brazil"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 103,
+      "Province_State": null,
+      "Country_Region": "Brunei",
+      "Last_Update": 1585629624000,
+      "Lat": 4.5353,
+      "Long_": 114.7277,
+      "Confirmed": 127,
+      "Recovered": 38,
+      "Deaths": 1,
+      "Active": 88,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Brunei"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 104,
+      "Province_State": null,
+      "Country_Region": "Bulgaria",
+      "Last_Update": 1585629624000,
+      "Lat": 42.7339,
+      "Long_": 25.4858,
+      "Confirmed": 359,
+      "Recovered": 17,
+      "Deaths": 8,
+      "Active": 334,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Bulgaria"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 105,
+      "Province_State": null,
+      "Country_Region": "Burkina Faso",
+      "Last_Update": 1585629624000,
+      "Lat": 12.2383,
+      "Long_": -1.5616,
+      "Confirmed": 246,
+      "Recovered": 31,
+      "Deaths": 12,
+      "Active": 203,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Burkina Faso"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 106,
+      "Province_State": null,
+      "Country_Region": "Burma",
+      "Last_Update": 1585629624000,
+      "Lat": 21.9162,
+      "Long_": 95.956,
+      "Confirmed": 14,
+      "Recovered": 0,
+      "Deaths": 1,
+      "Active": 13,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Burma"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 107,
+      "Province_State": null,
+      "Country_Region": "Cabo Verde",
+      "Last_Update": 1585629624000,
+      "Lat": 16.5388,
+      "Long_": -23.0418,
+      "Confirmed": 6,
+      "Recovered": 0,
+      "Deaths": 1,
+      "Active": 5,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Cabo Verde"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 108,
+      "Province_State": null,
+      "Country_Region": "Cambodia",
+      "Last_Update": 1585629624000,
+      "Lat": 11.55,
+      "Long_": 104.9167,
+      "Confirmed": 107,
+      "Recovered": 21,
+      "Deaths": 0,
+      "Active": 86,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Cambodia"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 109,
+      "Province_State": null,
+      "Country_Region": "Cameroon",
+      "Last_Update": 1585629624000,
+      "Lat": 3.848,
+      "Long_": 11.5021,
+      "Confirmed": 139,
+      "Recovered": 5,
+      "Deaths": 6,
+      "Active": 128,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Cameroon"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 110,
+      "Province_State": null,
+      "Country_Region": "Central African Republic",
+      "Last_Update": 1585629624000,
+      "Lat": 6.6111,
+      "Long_": 20.9394,
+      "Confirmed": 3,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 3,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Central African Republic"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 111,
+      "Province_State": null,
+      "Country_Region": "Chad",
+      "Last_Update": 1585629624000,
+      "Lat": 15.4542,
+      "Long_": 18.7322,
+      "Confirmed": 5,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 5,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Chad"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 112,
+      "Province_State": null,
+      "Country_Region": "Chile",
+      "Last_Update": 1585629624000,
+      "Lat": -35.6751,
+      "Long_": -71.543,
+      "Confirmed": 2449,
+      "Recovered": 156,
+      "Deaths": 8,
+      "Active": 2285,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Chile"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 113,
+      "Province_State": null,
+      "Country_Region": "Colombia",
+      "Last_Update": 1585629624000,
+      "Lat": 4.5709,
+      "Long_": -74.2973,
+      "Confirmed": 798,
+      "Recovered": 15,
+      "Deaths": 14,
+      "Active": 769,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Colombia"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 114,
+      "Province_State": null,
+      "Country_Region": "Congo (Brazzaville)",
+      "Last_Update": 1585629624000,
+      "Lat": -4.2634,
+      "Long_": 15.2832,
+      "Confirmed": 19,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 19,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Congo (Brazzaville)"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 115,
+      "Province_State": null,
+      "Country_Region": "Congo (Kinshasa)",
+      "Last_Update": 1585629624000,
+      "Lat": -4.322447,
+      "Long_": 15.307045,
+      "Confirmed": 81,
+      "Recovered": 2,
+      "Deaths": 8,
+      "Active": 71,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Congo (Kinshasa)"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 116,
+      "Province_State": null,
+      "Country_Region": "Costa Rica",
+      "Last_Update": 1585629624000,
+      "Lat": 9.7489,
+      "Long_": -83.7534,
+      "Confirmed": 330,
+      "Recovered": 4,
+      "Deaths": 2,
+      "Active": 324,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Costa Rica"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 117,
+      "Province_State": null,
+      "Country_Region": "Cote d'Ivoire",
+      "Last_Update": 1585629624000,
+      "Lat": 7.54,
+      "Long_": -5.5471,
+      "Confirmed": 168,
+      "Recovered": 6,
+      "Deaths": 1,
+      "Active": 161,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Cote d'Ivoire"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 118,
+      "Province_State": null,
+      "Country_Region": "Croatia",
+      "Last_Update": 1585629624000,
+      "Lat": 45.1,
+      "Long_": 15.2,
+      "Confirmed": 790,
+      "Recovered": 67,
+      "Deaths": 6,
+      "Active": 717,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Croatia"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 119,
+      "Province_State": null,
+      "Country_Region": "Cuba",
+      "Last_Update": 1585629624000,
+      "Lat": 21.521757,
+      "Long_": -77.781167,
+      "Confirmed": 170,
+      "Recovered": 4,
+      "Deaths": 4,
+      "Active": 162,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Cuba"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 120,
+      "Province_State": null,
+      "Country_Region": "Cyprus",
+      "Last_Update": 1585629624000,
+      "Lat": 35.1264,
+      "Long_": 33.4299,
+      "Confirmed": 230,
+      "Recovered": 22,
+      "Deaths": 7,
+      "Active": 201,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Cyprus"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 121,
+      "Province_State": null,
+      "Country_Region": "Czechia",
+      "Last_Update": 1585629624000,
+      "Lat": 49.8175,
+      "Long_": 15.473,
+      "Confirmed": 3001,
+      "Recovered": 25,
+      "Deaths": 23,
+      "Active": 2953,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Czechia"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 122,
+      "Province_State": null,
+      "Country_Region": "Denmark",
+      "Last_Update": 1585629624000,
+      "Lat": 56.2639,
+      "Long_": 9.5018,
+      "Confirmed": 2577,
+      "Recovered": 1,
+      "Deaths": 77,
+      "Active": 2499,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Denmark"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 123,
+      "Province_State": null,
+      "Country_Region": "Diamond Princess",
+      "Last_Update": 1585629624000,
+      "Lat": 0,
+      "Long_": 0,
+      "Confirmed": 712,
+      "Recovered": 603,
+      "Deaths": 10,
+      "Active": 99,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Diamond Princess"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 124,
+      "Province_State": null,
+      "Country_Region": "Djibouti",
+      "Last_Update": 1585629624000,
+      "Lat": 11.8251,
+      "Long_": 42.5903,
+      "Confirmed": 18,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 18,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Djibouti"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 125,
+      "Province_State": null,
+      "Country_Region": "Dominica",
+      "Last_Update": 1585629624000,
+      "Lat": 15.415,
+      "Long_": -61.371,
+      "Confirmed": 12,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 12,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Dominica"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 126,
+      "Province_State": null,
+      "Country_Region": "Dominican Republic",
+      "Last_Update": 1585629624000,
+      "Lat": 18.7357,
+      "Long_": -70.1627,
+      "Confirmed": 901,
+      "Recovered": 4,
+      "Deaths": 42,
+      "Active": 855,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Dominican Republic"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 127,
+      "Province_State": null,
+      "Country_Region": "Ecuador",
+      "Last_Update": 1585629624000,
+      "Lat": -1.8312,
+      "Long_": -78.1834,
+      "Confirmed": 1966,
+      "Recovered": 54,
+      "Deaths": 62,
+      "Active": 1850,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Ecuador"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 128,
+      "Province_State": null,
+      "Country_Region": "Egypt",
+      "Last_Update": 1585629624000,
+      "Lat": 26.820553,
+      "Long_": 30.802498,
+      "Confirmed": 656,
+      "Recovered": 150,
+      "Deaths": 41,
+      "Active": 465,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Egypt"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 129,
+      "Province_State": null,
+      "Country_Region": "El Salvador",
+      "Last_Update": 1585629624000,
+      "Lat": 13.7942,
+      "Long_": -88.8965,
+      "Confirmed": 32,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 32,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "El Salvador"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 130,
+      "Province_State": null,
+      "Country_Region": "Equatorial Guinea",
+      "Last_Update": 1585629624000,
+      "Lat": 1.6508,
+      "Long_": 10.2679,
+      "Confirmed": 12,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 12,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Equatorial Guinea"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 131,
+      "Province_State": null,
+      "Country_Region": "Eritrea",
+      "Last_Update": 1585629624000,
+      "Lat": 15.1794,
+      "Long_": 39.7823,
+      "Confirmed": 15,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 15,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Eritrea"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 132,
+      "Province_State": null,
+      "Country_Region": "Estonia",
+      "Last_Update": 1585629624000,
+      "Lat": 58.5953,
+      "Long_": 25.0136,
+      "Confirmed": 715,
+      "Recovered": 20,
+      "Deaths": 3,
+      "Active": 692,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Estonia"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 133,
+      "Province_State": null,
+      "Country_Region": "Eswatini",
+      "Last_Update": 1585629624000,
+      "Lat": -26.5225,
+      "Long_": 31.4659,
+      "Confirmed": 9,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 9,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Eswatini"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 134,
+      "Province_State": null,
+      "Country_Region": "Ethiopia",
+      "Last_Update": 1585629624000,
+      "Lat": 9.145,
+      "Long_": 40.4897,
+      "Confirmed": 23,
+      "Recovered": 4,
+      "Deaths": 0,
+      "Active": 19,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Ethiopia"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 135,
+      "Province_State": null,
+      "Country_Region": "Fiji",
+      "Last_Update": 1585629624000,
+      "Lat": -17.7134,
+      "Long_": 178.065,
+      "Confirmed": 5,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 5,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Fiji"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 136,
+      "Province_State": null,
+      "Country_Region": "Finland",
+      "Last_Update": 1585629624000,
+      "Lat": 61.92411,
+      "Long_": 25.748151,
+      "Confirmed": 1352,
+      "Recovered": 10,
+      "Deaths": 13,
+      "Active": 1329,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Finland"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 137,
+      "Province_State": null,
+      "Country_Region": "France",
+      "Last_Update": 1585629624000,
+      "Lat": 46.2276,
+      "Long_": 2.2137,
+      "Confirmed": 44550,
+      "Recovered": 7927,
+      "Deaths": 3024,
+      "Active": 33599,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "France"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 138,
+      "Province_State": null,
+      "Country_Region": "Gabon",
+      "Last_Update": 1585629624000,
+      "Lat": -0.8037,
+      "Long_": 11.6094,
+      "Confirmed": 7,
+      "Recovered": 0,
+      "Deaths": 1,
+      "Active": 6,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Gabon"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 139,
+      "Province_State": null,
+      "Country_Region": "Gambia",
+      "Last_Update": 1585629624000,
+      "Lat": 13.4432,
+      "Long_": -15.3101,
+      "Confirmed": 4,
+      "Recovered": 0,
+      "Deaths": 1,
+      "Active": 3,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Gambia"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 140,
+      "Province_State": null,
+      "Country_Region": "Georgia",
+      "Last_Update": 1585629624000,
+      "Lat": 42.3154,
+      "Long_": 43.3569,
+      "Confirmed": 103,
+      "Recovered": 20,
+      "Deaths": 0,
+      "Active": 83,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Georgia"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 141,
+      "Province_State": null,
+      "Country_Region": "Germany",
+      "Last_Update": 1585629624000,
+      "Lat": 51.165691,
+      "Long_": 10.451526,
+      "Confirmed": 66885,
+      "Recovered": 13500,
+      "Deaths": 645,
+      "Active": 52740,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Germany"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 142,
+      "Province_State": null,
+      "Country_Region": "Ghana",
+      "Last_Update": 1585629624000,
+      "Lat": 7.9465,
+      "Long_": -1.0232,
+      "Confirmed": 152,
+      "Recovered": 2,
+      "Deaths": 5,
+      "Active": 145,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Ghana"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 143,
+      "Province_State": null,
+      "Country_Region": "Greece",
+      "Last_Update": 1585629624000,
+      "Lat": 39.0742,
+      "Long_": 21.8243,
+      "Confirmed": 1212,
+      "Recovered": 52,
+      "Deaths": 46,
+      "Active": 1114,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Greece"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 144,
+      "Province_State": null,
+      "Country_Region": "Grenada",
+      "Last_Update": 1585629624000,
+      "Lat": 12.1165,
+      "Long_": -61.679,
+      "Confirmed": 9,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 9,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Grenada"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 145,
+      "Province_State": null,
+      "Country_Region": "Guatemala",
+      "Last_Update": 1585629624000,
+      "Lat": 15.7835,
+      "Long_": -90.2308,
+      "Confirmed": 36,
+      "Recovered": 10,
+      "Deaths": 1,
+      "Active": 25,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Guatemala"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 146,
+      "Province_State": null,
+      "Country_Region": "Guinea",
+      "Last_Update": 1585629624000,
+      "Lat": 9.9456,
+      "Long_": -9.6966,
+      "Confirmed": 22,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 22,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Guinea"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 147,
+      "Province_State": null,
+      "Country_Region": "Guinea-Bissau",
+      "Last_Update": 1585629624000,
+      "Lat": 11.8037,
+      "Long_": -15.1804,
+      "Confirmed": 8,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 8,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Guinea-Bissau"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 148,
+      "Province_State": null,
+      "Country_Region": "Guyana",
+      "Last_Update": 1585629624000,
+      "Lat": 4.860416,
+      "Long_": -58.93018,
+      "Confirmed": 8,
+      "Recovered": 0,
+      "Deaths": 1,
+      "Active": 7,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Guyana"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 149,
+      "Province_State": null,
+      "Country_Region": "Haiti",
+      "Last_Update": 1585629624000,
+      "Lat": 18.9712,
+      "Long_": -72.2852,
+      "Confirmed": 15,
+      "Recovered": 1,
+      "Deaths": 0,
+      "Active": 14,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Haiti"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 150,
+      "Province_State": null,
+      "Country_Region": "Holy See",
+      "Last_Update": 1585629624000,
+      "Lat": 41.9029,
+      "Long_": 12.4534,
+      "Confirmed": 6,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 6,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Holy See"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 151,
+      "Province_State": null,
+      "Country_Region": "Honduras",
+      "Last_Update": 1585629624000,
+      "Lat": 15.2,
+      "Long_": -86.2419,
+      "Confirmed": 141,
+      "Recovered": 3,
+      "Deaths": 7,
+      "Active": 131,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Honduras"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 152,
+      "Province_State": null,
+      "Country_Region": "Hungary",
+      "Last_Update": 1585629624000,
+      "Lat": 47.1625,
+      "Long_": 19.5033,
+      "Confirmed": 447,
+      "Recovered": 34,
+      "Deaths": 15,
+      "Active": 398,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Hungary"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 153,
+      "Province_State": null,
+      "Country_Region": "Iceland",
+      "Last_Update": 1585629624000,
+      "Lat": 64.9631,
+      "Long_": -19.0208,
+      "Confirmed": 1086,
+      "Recovered": 157,
+      "Deaths": 2,
+      "Active": 927,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Iceland"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 154,
+      "Province_State": null,
+      "Country_Region": "India",
+      "Last_Update": 1585629624000,
+      "Lat": 20.593684,
+      "Long_": 78.96288,
+      "Confirmed": 1251,
+      "Recovered": 102,
+      "Deaths": 32,
+      "Active": 1117,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "India"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 155,
+      "Province_State": null,
+      "Country_Region": "Indonesia",
+      "Last_Update": 1585629624000,
+      "Lat": -0.7893,
+      "Long_": 113.9213,
+      "Confirmed": 1414,
+      "Recovered": 75,
+      "Deaths": 122,
+      "Active": 1217,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Indonesia"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 156,
+      "Province_State": null,
+      "Country_Region": "Iran",
+      "Last_Update": 1585629624000,
+      "Lat": 32.427908,
+      "Long_": 53.688046,
+      "Confirmed": 41495,
+      "Recovered": 13911,
+      "Deaths": 2757,
+      "Active": 24827,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Iran"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 157,
+      "Province_State": null,
+      "Country_Region": "Iraq",
+      "Last_Update": 1585629624000,
+      "Lat": 33.223191,
+      "Long_": 43.679291,
+      "Confirmed": 630,
+      "Recovered": 152,
+      "Deaths": 46,
+      "Active": 432,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Iraq"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 158,
+      "Province_State": null,
+      "Country_Region": "Ireland",
+      "Last_Update": 1585629624000,
+      "Lat": 53.1424,
+      "Long_": -7.6921,
+      "Confirmed": 2910,
+      "Recovered": 5,
+      "Deaths": 54,
+      "Active": 2851,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Ireland"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 159,
+      "Province_State": null,
+      "Country_Region": "Israel",
+      "Last_Update": 1585629624000,
+      "Lat": 31.046051,
+      "Long_": 34.851612,
+      "Confirmed": 4695,
+      "Recovered": 161,
+      "Deaths": 16,
+      "Active": 4518,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Israel"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 160,
+      "Province_State": null,
+      "Country_Region": "Italy",
+      "Last_Update": 1585629624000,
+      "Lat": 41.87194,
+      "Long_": 12.56738,
+      "Confirmed": 101739,
+      "Recovered": 14620,
+      "Deaths": 11591,
+      "Active": 75528,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Italy"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 161,
+      "Province_State": null,
+      "Country_Region": "Jamaica",
+      "Last_Update": 1585629624000,
+      "Lat": 18.1096,
+      "Long_": -77.2975,
+      "Confirmed": 36,
+      "Recovered": 2,
+      "Deaths": 1,
+      "Active": 33,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Jamaica"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 162,
+      "Province_State": null,
+      "Country_Region": "Japan",
+      "Last_Update": 1585629624000,
+      "Lat": 36.204824,
+      "Long_": 138.252924,
+      "Confirmed": 1953,
+      "Recovered": 424,
+      "Deaths": 56,
+      "Active": 1473,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Japan"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 163,
+      "Province_State": null,
+      "Country_Region": "Jordan",
+      "Last_Update": 1585629624000,
+      "Lat": 31.24,
+      "Long_": 36.51,
+      "Confirmed": 268,
+      "Recovered": 26,
+      "Deaths": 5,
+      "Active": 237,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Jordan"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 164,
+      "Province_State": null,
+      "Country_Region": "Kazakhstan",
+      "Last_Update": 1585629624000,
+      "Lat": 48.0196,
+      "Long_": 66.9237,
+      "Confirmed": 325,
+      "Recovered": 21,
+      "Deaths": 1,
+      "Active": 303,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Kazakhstan"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 165,
+      "Province_State": null,
+      "Country_Region": "Kenya",
+      "Last_Update": 1585629624000,
+      "Lat": -0.0236,
+      "Long_": 37.9062,
+      "Confirmed": 50,
+      "Recovered": 1,
+      "Deaths": 1,
+      "Active": 48,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Kenya"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 166,
+      "Province_State": null,
+      "Country_Region": "Korea, South",
+      "Last_Update": 1585629624000,
+      "Lat": 35.907757,
+      "Long_": 127.766922,
+      "Confirmed": 9786,
+      "Recovered": 5408,
+      "Deaths": 162,
+      "Active": 4216,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Korea, South"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 167,
+      "Province_State": null,
+      "Country_Region": "Kosovo",
+      "Last_Update": 1585629624000,
+      "Lat": 42.602636,
+      "Long_": 20.902977,
+      "Confirmed": 94,
+      "Recovered": 1,
+      "Deaths": 1,
+      "Active": 92,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Kosovo"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 168,
+      "Province_State": null,
+      "Country_Region": "Kuwait",
+      "Last_Update": 1585629624000,
+      "Lat": 29.31166,
+      "Long_": 47.481766,
+      "Confirmed": 266,
+      "Recovered": 72,
+      "Deaths": 0,
+      "Active": 194,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Kuwait"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 169,
+      "Province_State": null,
+      "Country_Region": "Kyrgyzstan",
+      "Last_Update": 1585629624000,
+      "Lat": 41.20438,
+      "Long_": 74.766098,
+      "Confirmed": 94,
+      "Recovered": 3,
+      "Deaths": 0,
+      "Active": 91,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Kyrgyzstan"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 170,
+      "Province_State": null,
+      "Country_Region": "Laos",
+      "Last_Update": 1585629624000,
+      "Lat": 19.85627,
+      "Long_": 102.495496,
+      "Confirmed": 9,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 9,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Laos"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 171,
+      "Province_State": null,
+      "Country_Region": "Latvia",
+      "Last_Update": 1585629624000,
+      "Lat": 56.8796,
+      "Long_": 24.6032,
+      "Confirmed": 376,
+      "Recovered": 1,
+      "Deaths": 0,
+      "Active": 375,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Latvia"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 172,
+      "Province_State": null,
+      "Country_Region": "Lebanon",
+      "Last_Update": 1585629624000,
+      "Lat": 33.8547,
+      "Long_": 35.8623,
+      "Confirmed": 446,
+      "Recovered": 35,
+      "Deaths": 11,
+      "Active": 400,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Lebanon"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 173,
+      "Province_State": null,
+      "Country_Region": "Liberia",
+      "Last_Update": 1585629624000,
+      "Lat": 6.428055,
+      "Long_": -9.429499,
+      "Confirmed": 3,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 3,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Liberia"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 174,
+      "Province_State": null,
+      "Country_Region": "Libya",
+      "Last_Update": 1585629624000,
+      "Lat": 26.3351,
+      "Long_": 17.228331,
+      "Confirmed": 8,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 8,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Libya"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 175,
+      "Province_State": null,
+      "Country_Region": "Liechtenstein",
+      "Last_Update": 1585629624000,
+      "Lat": 47.14,
+      "Long_": 9.55,
+      "Confirmed": 62,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 62,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Liechtenstein"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 176,
+      "Province_State": null,
+      "Country_Region": "Lithuania",
+      "Last_Update": 1585629624000,
+      "Lat": 55.1694,
+      "Long_": 23.8813,
+      "Confirmed": 491,
+      "Recovered": 7,
+      "Deaths": 7,
+      "Active": 477,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Lithuania"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 177,
+      "Province_State": null,
+      "Country_Region": "Luxembourg",
+      "Last_Update": 1585629624000,
+      "Lat": 49.8153,
+      "Long_": 6.1296,
+      "Confirmed": 1988,
+      "Recovered": 40,
+      "Deaths": 22,
+      "Active": 1926,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Luxembourg"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 178,
+      "Province_State": null,
+      "Country_Region": "MS Zaandam",
+      "Last_Update": 1585629624000,
+      "Lat": 0,
+      "Long_": 0,
+      "Confirmed": 2,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 2,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "MS Zaandam"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 179,
+      "Province_State": null,
+      "Country_Region": "Madagascar",
+      "Last_Update": 1585629624000,
+      "Lat": -18.766947,
+      "Long_": 46.869107,
+      "Confirmed": 43,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 43,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Madagascar"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 180,
+      "Province_State": null,
+      "Country_Region": "Malaysia",
+      "Last_Update": 1585629624000,
+      "Lat": 4.210484,
+      "Long_": 101.975766,
+      "Confirmed": 2626,
+      "Recovered": 479,
+      "Deaths": 37,
+      "Active": 2110,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Malaysia"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 181,
+      "Province_State": null,
+      "Country_Region": "Maldives",
+      "Last_Update": 1585629624000,
+      "Lat": 3.2028,
+      "Long_": 73.2207,
+      "Confirmed": 17,
+      "Recovered": 13,
+      "Deaths": 0,
+      "Active": 4,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Maldives"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 182,
+      "Province_State": null,
+      "Country_Region": "Mali",
+      "Last_Update": 1585629624000,
+      "Lat": 17.570692,
+      "Long_": -3.996166,
+      "Confirmed": 25,
+      "Recovered": 0,
+      "Deaths": 2,
+      "Active": 23,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Mali"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 183,
+      "Province_State": null,
+      "Country_Region": "Malta",
+      "Last_Update": 1585629624000,
+      "Lat": 35.9375,
+      "Long_": 14.3754,
+      "Confirmed": 156,
+      "Recovered": 2,
+      "Deaths": 0,
+      "Active": 154,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Malta"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 184,
+      "Province_State": null,
+      "Country_Region": "Mauritania",
+      "Last_Update": 1585629624000,
+      "Lat": 21.0079,
+      "Long_": -10.9408,
+      "Confirmed": 6,
+      "Recovered": 2,
+      "Deaths": 1,
+      "Active": 3,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Mauritania"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 185,
+      "Province_State": null,
+      "Country_Region": "Mauritius",
+      "Last_Update": 1585629624000,
+      "Lat": -20.348404,
+      "Long_": 57.552152,
+      "Confirmed": 128,
+      "Recovered": 0,
+      "Deaths": 3,
+      "Active": 125,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Mauritius"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 186,
+      "Province_State": null,
+      "Country_Region": "Mexico",
+      "Last_Update": 1585629624000,
+      "Lat": 23.6345,
+      "Long_": -102.5528,
+      "Confirmed": 1094,
+      "Recovered": 35,
+      "Deaths": 28,
+      "Active": 1031,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Mexico"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 187,
+      "Province_State": null,
+      "Country_Region": "Moldova",
+      "Last_Update": 1585629624000,
+      "Lat": 47.4116,
+      "Long_": 28.3699,
+      "Confirmed": 298,
+      "Recovered": 15,
+      "Deaths": 2,
+      "Active": 281,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Moldova"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 188,
+      "Province_State": null,
+      "Country_Region": "Monaco",
+      "Last_Update": 1585629624000,
+      "Lat": 43.7333,
+      "Long_": 7.4167,
+      "Confirmed": 49,
+      "Recovered": 1,
+      "Deaths": 1,
+      "Active": 47,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Monaco"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 189,
+      "Province_State": null,
+      "Country_Region": "Mongolia",
+      "Last_Update": 1585629624000,
+      "Lat": 46.8625,
+      "Long_": 103.8467,
+      "Confirmed": 12,
+      "Recovered": 2,
+      "Deaths": 0,
+      "Active": 10,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Mongolia"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 190,
+      "Province_State": null,
+      "Country_Region": "Montenegro",
+      "Last_Update": 1585629624000,
+      "Lat": 42.708678,
+      "Long_": 19.37439,
+      "Confirmed": 91,
+      "Recovered": 0,
+      "Deaths": 1,
+      "Active": 90,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Montenegro"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 191,
+      "Province_State": null,
+      "Country_Region": "Morocco",
+      "Last_Update": 1585629624000,
+      "Lat": 31.7917,
+      "Long_": -7.0926,
+      "Confirmed": 556,
+      "Recovered": 15,
+      "Deaths": 33,
+      "Active": 508,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Morocco"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 192,
+      "Province_State": null,
+      "Country_Region": "Mozambique",
+      "Last_Update": 1585629624000,
+      "Lat": -18.665695,
+      "Long_": 35.529562,
+      "Confirmed": 8,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 8,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Mozambique"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 193,
+      "Province_State": null,
+      "Country_Region": "Namibia",
+      "Last_Update": 1585629624000,
+      "Lat": -22.9576,
+      "Long_": 18.4904,
+      "Confirmed": 11,
+      "Recovered": 2,
+      "Deaths": 0,
+      "Active": 9,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Namibia"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 194,
+      "Province_State": null,
+      "Country_Region": "Nepal",
+      "Last_Update": 1585629624000,
+      "Lat": 28.1667,
+      "Long_": 84.25,
+      "Confirmed": 5,
+      "Recovered": 1,
+      "Deaths": 0,
+      "Active": 4,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Nepal"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 195,
+      "Province_State": null,
+      "Country_Region": "Netherlands",
+      "Last_Update": 1585629624000,
+      "Lat": 52.1326,
+      "Long_": 5.2913,
+      "Confirmed": 11750,
+      "Recovered": 250,
+      "Deaths": 864,
+      "Active": 10636,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Netherlands"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 196,
+      "Province_State": null,
+      "Country_Region": "New Zealand",
+      "Last_Update": 1585629624000,
+      "Lat": -40.9006,
+      "Long_": 174.886,
+      "Confirmed": 647,
+      "Recovered": 74,
+      "Deaths": 1,
+      "Active": 572,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "New Zealand"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 197,
+      "Province_State": null,
+      "Country_Region": "Nicaragua",
+      "Last_Update": 1585629624000,
+      "Lat": 12.865416,
+      "Long_": -85.207229,
+      "Confirmed": 4,
+      "Recovered": 0,
+      "Deaths": 1,
+      "Active": 3,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Nicaragua"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 198,
+      "Province_State": null,
+      "Country_Region": "Niger",
+      "Last_Update": 1585629624000,
+      "Lat": 17.607789,
+      "Long_": 8.081666,
+      "Confirmed": 27,
+      "Recovered": 0,
+      "Deaths": 3,
+      "Active": 24,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Niger"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 199,
+      "Province_State": null,
+      "Country_Region": "Nigeria",
+      "Last_Update": 1585629624000,
+      "Lat": 9.082,
+      "Long_": 8.6753,
+      "Confirmed": 131,
+      "Recovered": 8,
+      "Deaths": 2,
+      "Active": 121,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Nigeria"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 200,
+      "Province_State": null,
+      "Country_Region": "North Macedonia",
+      "Last_Update": 1585629624000,
+      "Lat": 41.6086,
+      "Long_": 21.7453,
+      "Confirmed": 285,
+      "Recovered": 12,
+      "Deaths": 7,
+      "Active": 266,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "North Macedonia"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 201,
+      "Province_State": null,
+      "Country_Region": "Norway",
+      "Last_Update": 1585629624000,
+      "Lat": 60.472,
+      "Long_": 8.4689,
+      "Confirmed": 4462,
+      "Recovered": 12,
+      "Deaths": 32,
+      "Active": 4418,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Norway"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 202,
+      "Province_State": null,
+      "Country_Region": "Oman",
+      "Last_Update": 1585629624000,
+      "Lat": 21.512583,
+      "Long_": 55.923255,
+      "Confirmed": 179,
+      "Recovered": 29,
+      "Deaths": 0,
+      "Active": 150,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Oman"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 203,
+      "Province_State": null,
+      "Country_Region": "Pakistan",
+      "Last_Update": 1585629624000,
+      "Lat": 30.3753,
+      "Long_": 69.3451,
+      "Confirmed": 1717,
+      "Recovered": 76,
+      "Deaths": 21,
+      "Active": 1620,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Pakistan"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 204,
+      "Province_State": null,
+      "Country_Region": "Panama",
+      "Last_Update": 1585629624000,
+      "Lat": 8.538,
+      "Long_": -80.7821,
+      "Confirmed": 1075,
+      "Recovered": 9,
+      "Deaths": 27,
+      "Active": 1039,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Panama"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 205,
+      "Province_State": null,
+      "Country_Region": "Papua New Guinea",
+      "Last_Update": 1585629624000,
+      "Lat": -6.314993,
+      "Long_": 143.95555,
+      "Confirmed": 1,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 1,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Papua New Guinea"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 206,
+      "Province_State": null,
+      "Country_Region": "Paraguay",
+      "Last_Update": 1585629624000,
+      "Lat": -23.4425,
+      "Long_": -58.4438,
+      "Confirmed": 65,
+      "Recovered": 1,
+      "Deaths": 3,
+      "Active": 61,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Paraguay"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 207,
+      "Province_State": null,
+      "Country_Region": "Peru",
+      "Last_Update": 1585629624000,
+      "Lat": -9.19,
+      "Long_": -75.0152,
+      "Confirmed": 950,
+      "Recovered": 53,
+      "Deaths": 24,
+      "Active": 873,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Peru"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 208,
+      "Province_State": null,
+      "Country_Region": "Philippines",
+      "Last_Update": 1585629624000,
+      "Lat": 12.879721,
+      "Long_": 121.774017,
+      "Confirmed": 1546,
+      "Recovered": 42,
+      "Deaths": 78,
+      "Active": 1426,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Philippines"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 209,
+      "Province_State": null,
+      "Country_Region": "Poland",
+      "Last_Update": 1585629624000,
+      "Lat": 51.9194,
+      "Long_": 19.1451,
+      "Confirmed": 2055,
+      "Recovered": 7,
+      "Deaths": 31,
+      "Active": 2017,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Poland"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 210,
+      "Province_State": null,
+      "Country_Region": "Portugal",
+      "Last_Update": 1585629624000,
+      "Lat": 39.3999,
+      "Long_": -8.2245,
+      "Confirmed": 6408,
+      "Recovered": 43,
+      "Deaths": 140,
+      "Active": 6225,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Portugal"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 211,
+      "Province_State": null,
+      "Country_Region": "Qatar",
+      "Last_Update": 1585629624000,
+      "Lat": 25.3548,
+      "Long_": 51.1839,
+      "Confirmed": 693,
+      "Recovered": 51,
+      "Deaths": 1,
+      "Active": 641,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Qatar"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 212,
+      "Province_State": null,
+      "Country_Region": "Romania",
+      "Last_Update": 1585629624000,
+      "Lat": 45.9432,
+      "Long_": 24.9668,
+      "Confirmed": 2109,
+      "Recovered": 209,
+      "Deaths": 65,
+      "Active": 1835,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Romania"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 213,
+      "Province_State": null,
+      "Country_Region": "Russia",
+      "Last_Update": 1585629624000,
+      "Lat": 61.52401,
+      "Long_": 105.318756,
+      "Confirmed": 1836,
+      "Recovered": 66,
+      "Deaths": 9,
+      "Active": 1761,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Russia"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 214,
+      "Province_State": null,
+      "Country_Region": "Rwanda",
+      "Last_Update": 1585629624000,
+      "Lat": -1.9403,
+      "Long_": 29.8739,
+      "Confirmed": 70,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 70,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Rwanda"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 215,
+      "Province_State": null,
+      "Country_Region": "Saint Kitts and Nevis",
+      "Last_Update": 1585629624000,
+      "Lat": 17.357822,
+      "Long_": -62.782998,
+      "Confirmed": 7,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 7,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Saint Kitts and Nevis"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 216,
+      "Province_State": null,
+      "Country_Region": "Saint Lucia",
+      "Last_Update": 1585629624000,
+      "Lat": 13.9094,
+      "Long_": -60.9789,
+      "Confirmed": 9,
+      "Recovered": 1,
+      "Deaths": 0,
+      "Active": 8,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Saint Lucia"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 217,
+      "Province_State": null,
+      "Country_Region": "Saint Vincent and the Grenadines",
+      "Last_Update": 1585629624000,
+      "Lat": 12.9843,
+      "Long_": -61.2872,
+      "Confirmed": 1,
+      "Recovered": 1,
+      "Deaths": 0,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Saint Vincent and the Grenadines"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 218,
+      "Province_State": null,
+      "Country_Region": "San Marino",
+      "Last_Update": 1585629624000,
+      "Lat": 43.9424,
+      "Long_": 12.4578,
+      "Confirmed": 230,
+      "Recovered": 13,
+      "Deaths": 25,
+      "Active": 192,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "San Marino"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 219,
+      "Province_State": null,
+      "Country_Region": "Saudi Arabia",
+      "Last_Update": 1585629624000,
+      "Lat": 23.885942,
+      "Long_": 45.079162,
+      "Confirmed": 1453,
+      "Recovered": 115,
+      "Deaths": 8,
+      "Active": 1330,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Saudi Arabia"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 220,
+      "Province_State": null,
+      "Country_Region": "Senegal",
+      "Last_Update": 1585629624000,
+      "Lat": 14.4974,
+      "Long_": -14.4524,
+      "Confirmed": 162,
+      "Recovered": 27,
+      "Deaths": 0,
+      "Active": 135,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Senegal"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 221,
+      "Province_State": null,
+      "Country_Region": "Serbia",
+      "Last_Update": 1585629624000,
+      "Lat": 44.0165,
+      "Long_": 21.0059,
+      "Confirmed": 785,
+      "Recovered": 0,
+      "Deaths": 16,
+      "Active": 769,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Serbia"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 222,
+      "Province_State": null,
+      "Country_Region": "Seychelles",
+      "Last_Update": 1585629624000,
+      "Lat": -4.6796,
+      "Long_": 55.492,
+      "Confirmed": 10,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 10,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Seychelles"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 223,
+      "Province_State": null,
+      "Country_Region": "Singapore",
+      "Last_Update": 1585629624000,
+      "Lat": 1.2833,
+      "Long_": 103.8333,
+      "Confirmed": 879,
+      "Recovered": 228,
+      "Deaths": 3,
+      "Active": 648,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Singapore"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 224,
+      "Province_State": null,
+      "Country_Region": "Slovakia",
+      "Last_Update": 1585629624000,
+      "Lat": 48.669,
+      "Long_": 19.699,
+      "Confirmed": 336,
+      "Recovered": 7,
+      "Deaths": 0,
+      "Active": 329,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Slovakia"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 225,
+      "Province_State": null,
+      "Country_Region": "Slovenia",
+      "Last_Update": 1585629624000,
+      "Lat": 46.1512,
+      "Long_": 14.9955,
+      "Confirmed": 756,
+      "Recovered": 10,
+      "Deaths": 11,
+      "Active": 735,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Slovenia"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 226,
+      "Province_State": null,
+      "Country_Region": "Somalia",
+      "Last_Update": 1585629624000,
+      "Lat": 5.152149,
+      "Long_": 46.199616,
+      "Confirmed": 3,
+      "Recovered": 1,
+      "Deaths": 0,
+      "Active": 2,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Somalia"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 227,
+      "Province_State": null,
+      "Country_Region": "South Africa",
+      "Last_Update": 1585629624000,
+      "Lat": -30.5595,
+      "Long_": 22.9375,
+      "Confirmed": 1326,
+      "Recovered": 31,
+      "Deaths": 3,
+      "Active": 1292,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "South Africa"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 228,
+      "Province_State": null,
+      "Country_Region": "Spain",
+      "Last_Update": 1585629624000,
+      "Lat": 40.463667,
+      "Long_": -3.74922,
+      "Confirmed": 87956,
+      "Recovered": 16780,
+      "Deaths": 7716,
+      "Active": 63460,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Spain"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 229,
+      "Province_State": null,
+      "Country_Region": "Sri Lanka",
+      "Last_Update": 1585629624000,
+      "Lat": 7.873054,
+      "Long_": 80.771797,
+      "Confirmed": 122,
+      "Recovered": 15,
+      "Deaths": 2,
+      "Active": 105,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Sri Lanka"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 230,
+      "Province_State": null,
+      "Country_Region": "Sudan",
+      "Last_Update": 1585629624000,
+      "Lat": 12.8628,
+      "Long_": 30.2176,
+      "Confirmed": 6,
+      "Recovered": 0,
+      "Deaths": 2,
+      "Active": 4,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Sudan"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 231,
+      "Province_State": null,
+      "Country_Region": "Suriname",
+      "Last_Update": 1585629624000,
+      "Lat": 3.9193,
+      "Long_": -56.0278,
+      "Confirmed": 8,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 8,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Suriname"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 232,
+      "Province_State": null,
+      "Country_Region": "Sweden",
+      "Last_Update": 1585629624000,
+      "Lat": 60.128161,
+      "Long_": 18.643501,
+      "Confirmed": 4028,
+      "Recovered": 16,
+      "Deaths": 146,
+      "Active": 3866,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Sweden"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 233,
+      "Province_State": null,
+      "Country_Region": "Switzerland",
+      "Last_Update": 1585629624000,
+      "Lat": 46.8182,
+      "Long_": 8.2275,
+      "Confirmed": 15922,
+      "Recovered": 1823,
+      "Deaths": 359,
+      "Active": 13740,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Switzerland"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 234,
+      "Province_State": null,
+      "Country_Region": "Syria",
+      "Last_Update": 1585629624000,
+      "Lat": 34.802075,
+      "Long_": 38.996815,
+      "Confirmed": 10,
+      "Recovered": 0,
+      "Deaths": 2,
+      "Active": 8,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Syria"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 235,
+      "Province_State": null,
+      "Country_Region": "Taiwan*",
+      "Last_Update": 1585552309000,
+      "Lat": 23.7,
+      "Long_": 121,
+      "Confirmed": 306,
+      "Recovered": 39,
+      "Deaths": 5,
+      "Active": 262,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Taiwan*"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 236,
+      "Province_State": null,
+      "Country_Region": "Tanzania",
+      "Last_Update": 1585629624000,
+      "Lat": -6.369028,
+      "Long_": 34.888822,
+      "Confirmed": 19,
+      "Recovered": 1,
+      "Deaths": 0,
+      "Active": 18,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Tanzania"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 237,
+      "Province_State": null,
+      "Country_Region": "Thailand",
+      "Last_Update": 1585629624000,
+      "Lat": 15.870032,
+      "Long_": 100.992541,
+      "Confirmed": 1524,
+      "Recovered": 229,
+      "Deaths": 9,
+      "Active": 1286,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Thailand"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 238,
+      "Province_State": null,
+      "Country_Region": "Timor-Leste",
+      "Last_Update": 1585629624000,
+      "Lat": -8.874217,
+      "Long_": 125.727539,
+      "Confirmed": 1,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 1,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Timor-Leste"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 239,
+      "Province_State": null,
+      "Country_Region": "Togo",
+      "Last_Update": 1585629624000,
+      "Lat": 8.6195,
+      "Long_": 0.8248,
+      "Confirmed": 30,
+      "Recovered": 1,
+      "Deaths": 1,
+      "Active": 28,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Togo"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 240,
+      "Province_State": null,
+      "Country_Region": "Trinidad and Tobago",
+      "Last_Update": 1585629624000,
+      "Lat": 10.6918,
+      "Long_": -61.2225,
+      "Confirmed": 85,
+      "Recovered": 1,
+      "Deaths": 3,
+      "Active": 81,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Trinidad and Tobago"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 241,
+      "Province_State": null,
+      "Country_Region": "Tunisia",
+      "Last_Update": 1585629624000,
+      "Lat": 33.886917,
+      "Long_": 9.537499,
+      "Confirmed": 362,
+      "Recovered": 3,
+      "Deaths": 9,
+      "Active": 350,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Tunisia"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 242,
+      "Province_State": null,
+      "Country_Region": "Turkey",
+      "Last_Update": 1585629624000,
+      "Lat": 38.9637,
+      "Long_": 35.2433,
+      "Confirmed": 10827,
+      "Recovered": 162,
+      "Deaths": 168,
+      "Active": 10497,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Turkey"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 243,
+      "Province_State": null,
+      "Country_Region": "Uganda",
+      "Last_Update": 1585629624000,
+      "Lat": 1.373333,
+      "Long_": 32.290275,
+      "Confirmed": 33,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 33,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Uganda"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 244,
+      "Province_State": null,
+      "Country_Region": "Ukraine",
+      "Last_Update": 1585629624000,
+      "Lat": 48.3794,
+      "Long_": 31.1656,
+      "Confirmed": 548,
+      "Recovered": 8,
+      "Deaths": 13,
+      "Active": 527,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Ukraine"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 245,
+      "Province_State": null,
+      "Country_Region": "United Arab Emirates",
+      "Last_Update": 1585629624000,
+      "Lat": 23.424076,
+      "Long_": 53.847818,
+      "Confirmed": 611,
+      "Recovered": 61,
+      "Deaths": 5,
+      "Active": 545,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "United Arab Emirates"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 246,
+      "Province_State": null,
+      "Country_Region": "United Kingdom",
+      "Last_Update": 1585629624000,
+      "Lat": 55.3781,
+      "Long_": -3.436,
+      "Confirmed": 22141,
+      "Recovered": 135,
+      "Deaths": 1408,
+      "Active": 20598,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "United Kingdom"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 247,
+      "Province_State": null,
+      "Country_Region": "Uruguay",
+      "Last_Update": 1585629624000,
+      "Lat": -32.5228,
+      "Long_": -55.7658,
+      "Confirmed": 320,
+      "Recovered": 25,
+      "Deaths": 1,
+      "Active": 294,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Uruguay"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 248,
+      "Province_State": null,
+      "Country_Region": "Uzbekistan",
+      "Last_Update": 1585629624000,
+      "Lat": 41.377491,
+      "Long_": 64.585262,
+      "Confirmed": 150,
+      "Recovered": 7,
+      "Deaths": 2,
+      "Active": 141,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Uzbekistan"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 249,
+      "Province_State": null,
+      "Country_Region": "Venezuela",
+      "Last_Update": 1585629624000,
+      "Lat": 6.4238,
+      "Long_": -66.5897,
+      "Confirmed": 135,
+      "Recovered": 39,
+      "Deaths": 3,
+      "Active": 93,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Venezuela"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 250,
+      "Province_State": null,
+      "Country_Region": "Vietnam",
+      "Last_Update": 1585629624000,
+      "Lat": 14.058324,
+      "Long_": 108.277199,
+      "Confirmed": 204,
+      "Recovered": 55,
+      "Deaths": 0,
+      "Active": 149,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Vietnam"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 251,
+      "Province_State": null,
+      "Country_Region": "West Bank and Gaza",
+      "Last_Update": 1585629624000,
+      "Lat": 31.9522,
+      "Long_": 35.2332,
+      "Confirmed": 117,
+      "Recovered": 18,
+      "Deaths": 1,
+      "Active": 98,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "West Bank and Gaza"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 252,
+      "Province_State": null,
+      "Country_Region": "Zambia",
+      "Last_Update": 1585629624000,
+      "Lat": -13.133897,
+      "Long_": 27.849332,
+      "Confirmed": 35,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 35,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Zambia"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 253,
+      "Province_State": null,
+      "Country_Region": "Zimbabwe",
+      "Last_Update": 1585629624000,
+      "Lat": -19.015438,
+      "Long_": 29.154857,
+      "Confirmed": 7,
+      "Recovered": 0,
+      "Deaths": 1,
+      "Active": 6,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Zimbabwe"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 254,
+      "Province_State": "Mississippi",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 32.741646,
+      "Long_": -89.678696,
+      "Confirmed": 847,
+      "Recovered": 0,
+      "Deaths": 16,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "28",
+      "Combined_Key": "Mississippi, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 255,
+      "Province_State": "Grand Princess",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 37.64894,
+      "Long_": -122.665479,
+      "Confirmed": 103,
+      "Recovered": 0,
+      "Deaths": 3,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Grand Princess, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 256,
+      "Province_State": "Oklahoma",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 35.565342,
+      "Long_": -96.928917,
+      "Confirmed": 481,
+      "Recovered": 0,
+      "Deaths": 17,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "40",
+      "Combined_Key": "Oklahoma, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 257,
+      "Province_State": "Delaware",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 39.318523,
+      "Long_": -75.507141,
+      "Confirmed": 264,
+      "Recovered": 0,
+      "Deaths": 7,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "10",
+      "Combined_Key": "Delaware, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 258,
+      "Province_State": "Minnesota",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 45.694454,
+      "Long_": -93.900192,
+      "Confirmed": 576,
+      "Recovered": 0,
+      "Deaths": 10,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "27",
+      "Combined_Key": "Minnesota, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 259,
+      "Province_State": "Illinois",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 40.349457,
+      "Long_": -88.986137,
+      "Confirmed": 5057,
+      "Recovered": 0,
+      "Deaths": 73,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "17",
+      "Combined_Key": "Illinois, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 260,
+      "Province_State": "Arkansas",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 34.969704,
+      "Long_": -92.373123,
+      "Confirmed": 508,
+      "Recovered": 0,
+      "Deaths": 7,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "05",
+      "Combined_Key": "Arkansas, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 261,
+      "Province_State": "New Mexico",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 34.840515,
+      "Long_": -106.248482,
+      "Confirmed": 281,
+      "Recovered": 0,
+      "Deaths": 4,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "35",
+      "Combined_Key": "New Mexico, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 262,
+      "Province_State": "Indiana",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 39.849426,
+      "Long_": -86.258278,
+      "Confirmed": 1786,
+      "Recovered": 0,
+      "Deaths": 35,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "18",
+      "Combined_Key": "Indiana, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 263,
+      "Province_State": "Louisiana",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 31.169546,
+      "Long_": -91.867805,
+      "Confirmed": 4025,
+      "Recovered": 0,
+      "Deaths": 185,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "22",
+      "Combined_Key": "Louisiana, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 264,
+      "Province_State": "Texas",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 31.054487,
+      "Long_": -97.563461,
+      "Confirmed": 3339,
+      "Recovered": 0,
+      "Deaths": 48,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "48",
+      "Combined_Key": "Texas, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 265,
+      "Province_State": "Wisconsin",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 44.268543,
+      "Long_": -89.616508,
+      "Confirmed": 1285,
+      "Recovered": 0,
+      "Deaths": 24,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "55",
+      "Combined_Key": "Wisconsin, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 266,
+      "Province_State": "Kansas",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 38.5266,
+      "Long_": -96.726486,
+      "Confirmed": 374,
+      "Recovered": 0,
+      "Deaths": 8,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "20",
+      "Combined_Key": "Kansas, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 269,
+      "Province_State": "Connecticut",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 41.597782,
+      "Long_": -72.755371,
+      "Confirmed": 2571,
+      "Recovered": 0,
+      "Deaths": 36,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "09",
+      "Combined_Key": "Connecticut, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 271,
+      "Province_State": "California",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 36.116203,
+      "Long_": -119.681564,
+      "Confirmed": 7391,
+      "Recovered": 0,
+      "Deaths": 150,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "06",
+      "Combined_Key": "California, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 272,
+      "Province_State": "Puerto Rico",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 18.2208,
+      "Long_": -66.5901,
+      "Confirmed": 174,
+      "Recovered": 0,
+      "Deaths": 7,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "72",
+      "Combined_Key": "Puerto Rico, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 273,
+      "Province_State": "Georgia",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 33.040619,
+      "Long_": -83.643074,
+      "Confirmed": 3031,
+      "Recovered": 0,
+      "Deaths": 102,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "13",
+      "Combined_Key": "Georgia, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 274,
+      "Province_State": "North Dakota",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 47.528912,
+      "Long_": -99.784012,
+      "Confirmed": 109,
+      "Recovered": 0,
+      "Deaths": 3,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "38",
+      "Combined_Key": "North Dakota, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 275,
+      "Province_State": "Pennsylvania",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 40.590752,
+      "Long_": -77.209755,
+      "Confirmed": 4155,
+      "Recovered": 0,
+      "Deaths": 51,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "42",
+      "Combined_Key": "Pennsylvania, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 276,
+      "Province_State": "West Virginia",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 38.491226,
+      "Long_": -80.954453,
+      "Confirmed": 145,
+      "Recovered": 0,
+      "Deaths": 1,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "54",
+      "Combined_Key": "West Virginia, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 277,
+      "Province_State": "Alaska",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 61.370716,
+      "Long_": -152.404419,
+      "Confirmed": 119,
+      "Recovered": 0,
+      "Deaths": 3,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "02",
+      "Combined_Key": "Alaska, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 278,
+      "Province_State": "Tennessee",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 35.747845,
+      "Long_": -86.692345,
+      "Confirmed": 1937,
+      "Recovered": 0,
+      "Deaths": 14,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "47",
+      "Combined_Key": "Tennessee, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 280,
+      "Province_State": "Missouri",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 38.456085,
+      "Long_": -92.288368,
+      "Confirmed": 1098,
+      "Recovered": 0,
+      "Deaths": 13,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "29",
+      "Combined_Key": "Missouri, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 281,
+      "Province_State": "South Dakota",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 44.299782,
+      "Long_": -99.438828,
+      "Confirmed": 101,
+      "Recovered": 0,
+      "Deaths": 1,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "46",
+      "Combined_Key": "South Dakota, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 282,
+      "Province_State": "Colorado",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 39.059811,
+      "Long_": -105.311104,
+      "Confirmed": 2627,
+      "Recovered": 0,
+      "Deaths": 51,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "08",
+      "Combined_Key": "Colorado, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 283,
+      "Province_State": "New Jersey",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 40.298904,
+      "Long_": -74.521011,
+      "Confirmed": 16636,
+      "Recovered": 0,
+      "Deaths": 198,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "34",
+      "Combined_Key": "New Jersey, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 284,
+      "Province_State": "Guam",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 13.4443,
+      "Long_": 144.7937,
+      "Confirmed": 58,
+      "Recovered": 0,
+      "Deaths": 1,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Guam, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 285,
+      "Province_State": "Washington",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 47.400902,
+      "Long_": -121.490494,
+      "Confirmed": 5187,
+      "Recovered": 0,
+      "Deaths": 219,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "53",
+      "Combined_Key": "Washington, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 286,
+      "Province_State": "New York",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 42.165726,
+      "Long_": -74.948051,
+      "Confirmed": 67384,
+      "Recovered": 0,
+      "Deaths": 1342,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "36",
+      "Combined_Key": "New York, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 287,
+      "Province_State": "Nevada",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 38.313515,
+      "Long_": -117.055374,
+      "Confirmed": 1044,
+      "Recovered": 0,
+      "Deaths": 18,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "32",
+      "Combined_Key": "Nevada, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 289,
+      "Province_State": "Diamond Princess",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 35.4437,
+      "Long_": 139.638,
+      "Confirmed": 49,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": null,
+      "Combined_Key": "Diamond Princess, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 290,
+      "Province_State": "Maryland",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 39.063946,
+      "Long_": -76.802101,
+      "Confirmed": 1413,
+      "Recovered": 0,
+      "Deaths": 15,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "24",
+      "Combined_Key": "Maryland, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 291,
+      "Province_State": "Idaho",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 44.240459,
+      "Long_": -114.478828,
+      "Confirmed": 431,
+      "Recovered": 0,
+      "Deaths": 8,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "16",
+      "Combined_Key": "Idaho, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 292,
+      "Province_State": "Wyoming",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 42.755966,
+      "Long_": -107.30249,
+      "Confirmed": 95,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "56",
+      "Combined_Key": "Wyoming, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 293,
+      "Province_State": "Arizona",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 33.729759,
+      "Long_": -111.431221,
+      "Confirmed": 1158,
+      "Recovered": 0,
+      "Deaths": 20,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "04",
+      "Combined_Key": "Arizona, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 294,
+      "Province_State": "Iowa",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 42.011539,
+      "Long_": -93.210526,
+      "Confirmed": 424,
+      "Recovered": 0,
+      "Deaths": 6,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "19",
+      "Combined_Key": "Iowa, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 295,
+      "Province_State": "Michigan",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 43.326618,
+      "Long_": -84.536095,
+      "Confirmed": 6498,
+      "Recovered": 0,
+      "Deaths": 185,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "26",
+      "Combined_Key": "Michigan, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 296,
+      "Province_State": "Utah",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 40.150032,
+      "Long_": -111.862434,
+      "Confirmed": 804,
+      "Recovered": 0,
+      "Deaths": 4,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "49",
+      "Combined_Key": "Utah, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 297,
+      "Province_State": "Virginia",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 37.769337,
+      "Long_": -78.169968,
+      "Confirmed": 1020,
+      "Recovered": 0,
+      "Deaths": 15,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "51",
+      "Combined_Key": "Virginia, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 298,
+      "Province_State": "Oregon",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 44.572021,
+      "Long_": -122.070938,
+      "Confirmed": 606,
+      "Recovered": 0,
+      "Deaths": 16,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "41",
+      "Combined_Key": "Oregon, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 299,
+      "Province_State": "Montana",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 46.921925,
+      "Long_": -110.454353,
+      "Confirmed": 177,
+      "Recovered": 0,
+      "Deaths": 5,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "30",
+      "Combined_Key": "Montana, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 300,
+      "Province_State": "New Hampshire",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 43.452492,
+      "Long_": -71.563896,
+      "Confirmed": 314,
+      "Recovered": 0,
+      "Deaths": 3,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "33",
+      "Combined_Key": "New Hampshire, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 301,
+      "Province_State": "Massachusetts",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 42.230171,
+      "Long_": -71.530106,
+      "Confirmed": 5752,
+      "Recovered": 0,
+      "Deaths": 56,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "25",
+      "Combined_Key": "Massachusetts, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 302,
+      "Province_State": "South Carolina",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 33.856892,
+      "Long_": -80.945007,
+      "Confirmed": 925,
+      "Recovered": 0,
+      "Deaths": 18,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "45",
+      "Combined_Key": "South Carolina, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 303,
+      "Province_State": "Vermont",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 44.045876,
+      "Long_": -72.710686,
+      "Confirmed": 256,
+      "Recovered": 0,
+      "Deaths": 12,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "50",
+      "Combined_Key": "Vermont, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 304,
+      "Province_State": "Florida",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 27.766279,
+      "Long_": -81.686783,
+      "Confirmed": 5704,
+      "Recovered": 0,
+      "Deaths": 71,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "12",
+      "Combined_Key": "Florida, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 305,
+      "Province_State": "Hawaii",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 21.094318,
+      "Long_": -157.498337,
+      "Confirmed": 204,
+      "Recovered": 0,
+      "Deaths": 0,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "15",
+      "Combined_Key": "Hawaii, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 306,
+      "Province_State": "Kentucky",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 37.66814,
+      "Long_": -84.670067,
+      "Confirmed": 490,
+      "Recovered": 0,
+      "Deaths": 11,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "21",
+      "Combined_Key": "Kentucky, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 307,
+      "Province_State": "Rhode Island",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 41.680893,
+      "Long_": -71.51178,
+      "Confirmed": 408,
+      "Recovered": 0,
+      "Deaths": 4,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "44",
+      "Combined_Key": "Rhode Island, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 308,
+      "Province_State": "Nebraska",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 41.12537,
+      "Long_": -98.268082,
+      "Confirmed": 153,
+      "Recovered": 0,
+      "Deaths": 3,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "31",
+      "Combined_Key": "Nebraska, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 309,
+      "Province_State": "Ohio",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 40.388783,
+      "Long_": -82.764915,
+      "Confirmed": 1933,
+      "Recovered": 0,
+      "Deaths": 40,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "39",
+      "Combined_Key": "Ohio, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 310,
+      "Province_State": "Alabama",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 32.3182,
+      "Long_": -86.9023,
+      "Confirmed": 947,
+      "Recovered": 0,
+      "Deaths": 11,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "01",
+      "Combined_Key": "Alabama, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 311,
+      "Province_State": "North Carolina",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 35.630066,
+      "Long_": -79.806419,
+      "Confirmed": 1379,
+      "Recovered": 0,
+      "Deaths": 8,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "37",
+      "Combined_Key": "North Carolina, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 312,
+      "Province_State": "District of Columbia",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 38.897438,
+      "Long_": -77.026817,
+      "Confirmed": 495,
+      "Recovered": 0,
+      "Deaths": 9,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "11",
+      "Combined_Key": "District of Columbia, US"
+    }
+  },
+  {
+    "attributes": {
+      "OBJECTID": 313,
+      "Province_State": "Maine",
+      "Country_Region": "US",
+      "Last_Update": 1585629636000,
+      "Lat": 44.693947,
+      "Long_": -69.381927,
+      "Confirmed": 275,
+      "Recovered": 0,
+      "Deaths": 3,
+      "Active": 0,
+      "Admin2": null,
+      "FIPS": "23",
+      "Combined_Key": "Maine, US"
+    }
+  }
+]
