@@ -1,6 +1,6 @@
 # covid19_JHU_dashboard
 
-You can now access to the latest data from JHU dashboard every 20 minutes.
+You can now access to the latest data from JHU dashboard every 20 minutes. *Note that if there is nothing new in the data, the updated time would be longer than 20 minutes
 
 It's in the file: **real-time_JHU_data.json**
 
