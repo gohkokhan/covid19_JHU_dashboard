@@ -8,7 +8,7 @@ This bash script pull the data from JHU dashboard https://gisanddata.maps.arcgis
 
 I've been using this method for a month for my interactive dashboard on Google Data Studio: https://datastudio.google.com/reporting/f56febd8-5c42-4191-bcea-87a3396f4508
 
-
+If you are using the script/data, consider Star it. Thanks
 
 Example of the output data:
 
