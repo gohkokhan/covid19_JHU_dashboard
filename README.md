@@ -6,6 +6,11 @@ I've been using this method for a month for my interactive dashboard on Google D
 
 If you are using the script/data, consider Star it. Thanks
 
+**How I get derived the cUrl url?**
+I read the official documentation of ArcGIS on how to query a feature layer, then I manually type in to query the data that I want. 
+
+Link to the documentation: https://developers.arcgis.com/rest/services-reference/query-feature-service-layer-.htm
+
 Example of the output data:
 
 ```
